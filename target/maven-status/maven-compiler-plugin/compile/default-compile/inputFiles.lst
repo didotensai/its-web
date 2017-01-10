@@ -1,0 +1,12 @@
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/config/ApplicationConfig.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/service/RestCategoryService.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/service/RestNewsService.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/service/CategoryService.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/repository/CategoryRepository.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/entity/Category.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/service/NewsService.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/Main.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/config/SwaggerConfig.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/entity/News.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/repository/NewsRepository.java
+/home/smktiufa/workspace/dido/src/main/java/org/its/smkufa/config/JPAConfig.java
